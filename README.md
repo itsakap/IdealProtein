@@ -20,6 +20,6 @@ The biggest bug I encountered had to do with the dates.  As of now, unless the a
 
 Also worth noting, I think the code is a little bit smelly, and as such, the app is a little bit slow on a phone.  But... it works.
 
-<h2>Additional info</h2>
+<h2>Additional Info</h2>
 
 Screenshots can be found at my portfolio page, www.itsakap.com
